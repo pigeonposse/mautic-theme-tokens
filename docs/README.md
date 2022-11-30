@@ -7,8 +7,8 @@ We have made a **guide** of recommendations of how those **tokens** should be.
 List of **custom tokens** used by the theme:
 
 + [```{pigeontoken="header"}```](#-pigeontokenheader)
-+ [```{pigeontoken="social-links"}```](#-pigeontokensociallinks)
-+ [```{pigeontoken="web-links"}```](#-pigeontokenweblinks)
++ [```{pigeontoken="social-links"}```](#-pigeontokensocial-links)
++ [```{pigeontoken="web-links"}```](#-pigeontokenweb-links)
 + [```{pigeontoken="copyright"}```](#-pigeontokencopyright)
 
 ## PigeonTokens
