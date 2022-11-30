@@ -46,8 +46,8 @@ FOR 	PIGEONPOSSE.COM
 
 # Mautic Theme _(with tokens)_ by PIGEONPOSSE™
 
-[![License](https://img.shields.io/github/license/PigeonPosse/mautic-theme-tokens?color=blue&label=License&style=flat-square)](https://packagist.org/packages/pigeonposse/mautic-theme)
-[![Version](https://img.shields.io/packagist/v/pigeonposse/mautic-theme-tokens?color=a1b858&label&style=flat-square)](https://packagist.org/packages/pigeonposse/mautic-theme)
+[![License](https://img.shields.io/github/license/PigeonPosse/mautic-theme-tokens?color=blue&label=License&style=flat-square)](https://packagist.org/packages/pigeonposse/mautic-theme-tokens)
+[![Version](https://img.shields.io/packagist/v/pigeonposse/mautic-theme-tokens?color=a1b858&label&style=flat-square)](https://packagist.org/packages/pigeonposse/mautic-theme-tokens)
 [![Web](https://img.shields.io/badge/Web-grey?style=flat-square)](https://pigeonposse.com/) 
 [![About us](https://img.shields.io/badge/About--us-grey?style=flat-square)](https://pigeonposse.com/?popup=about) 
 [![Donate](https://img.shields.io/badge/Donate-pink?style=flat-square)](https://pigeonposse.com/?popup=donate) 
@@ -101,7 +101,7 @@ We have made a **guide** of recommendations of how those **tokens** should be.
 
 To see recommendations and examples:
 
-[![Read more](https://img.shields.io/badge/Read-more-grey?style=flat-square)](https://github.com/PigeonPosse/mautic-theme-token/blob/main/docs/)
+[![Read more](https://img.shields.io/badge/Read-more-grey?style=flat-square)](https://github.com/PigeonPosse/mautic-theme-tokens/blob/main/docs/)
 
 
 ## 👨‍💻 Development
@@ -124,13 +124,13 @@ Help us to develop more interesting things.
 
 Read about the history of the project.
 
-[![Read more](https://img.shields.io/badge/Read-more-grey?style=flat-square)](https://github.com/PigeonPosse/mautic-theme-token/blob/main/HISTORY.md)
+[![Read more](https://img.shields.io/badge/Read-more-grey?style=flat-square)](https://github.com/PigeonPosse/mautic-theme-tokens/blob/main/HISTORY.md)
 
 ## 📜 License
 
 This sofware is licensed with GPLv3 (GNU GENERAL PUBLIC LICENSE Version 3)
 
-[![Read more](https://img.shields.io/badge/Read-more-grey?style=flat-square)](https://github.com/PigeonPosse/mautic-theme-token/blob/main/LICENSE)
+[![Read more](https://img.shields.io/badge/Read-more-grey?style=flat-square)](https://github.com/PigeonPosse/mautic-theme-tokens/blob/main/LICENSE)
 
 ## 🐦 About us
 
