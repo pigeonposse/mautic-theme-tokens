@@ -74,7 +74,8 @@ a {
     justify-content: center;
     flex-wrap: nowrap;
 }
-.pigeon-footer .social-links a {
+.pigeon-footer .social-links a,
+.pigeon-footer .web-links a  {
 	margin:10px;
 }
 .pigeon-footer .copy {

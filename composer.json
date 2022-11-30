@@ -1,11 +1,18 @@
 {
-	"name": "pigeonposse/mautic-theme",
-	"description" : "A pigeonPosse theme for Mautic",
+	"name": "pigeonposse/mautic-theme-tokens",
+	"description" : "A pigeonPosse theme for Mautic with tokens",
 	"type": "mautic-theme",
-	"keywords": ["mautic","theme"],
+	"keywords": [
+		"mautic",
+		"theme", 
+		"tokens", 
+		"custom-tokens",
+		"mautic-plugin-extra-tools"
+	],
 	"extra": {
-		"install-directory-name": "pigeonposse"
+		"install-directory-name": "pigeonposse-tokens"
 	},
+	"version" : "1.0.0",
 	"authors": [
 		{
             "name": "PigeonPosse Team",

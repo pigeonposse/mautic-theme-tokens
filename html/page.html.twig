@@ -7,30 +7,36 @@
             <tbody>
                 <tr>
                     <td>
+                    	<!-- header -->
                     	<div class="row pigeon-header center">
-			  				<img src="{{getAssetUrl('themes/'~template~'/assets/logo.png')}}" alt="logo" height="50px" class="logo">
-		  					<span class="title">PigeonPosse</span>
+                    		{pigeontoken="header"}
 						</div>
+						<!-- content -->
                     	<div class="row pigeon-content">
 				  			<div class="cell">
                                 <h2>Hello <i>Pigeon fancier</i> 👋</h2>
-                                <br>
-                                We haven't heard from you for a while...
-                                <br>
+								<p>
+									We haven't heard from you for a while...
+								</p>
+								<p>
+								  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+								</p>
                                 <a href="https://pigeonposse.com" class="button">GO 👊</a>
 				  			</div>
-				  			<div class="cell">
-                                <script type="text/javascript" src="//localhost:8205/form/generate.js?id=1"></script>
-				  			</div>
 						</div>
+						<!-- footer -->
                     	<div class="row pigeon-footer center">
+                    		<!-- social -->
 				  			<div class="cell social-links">
-				  				<a href="https://pigeonposse.com" target="_blank">Web</a>
-				  				<a href="https://twitter.com/pigeonposse" target="_blank">Twitter</a>
-				  				<a href="https://github.com/PigeonPosse" target="_blank">Github</a>
+				  				{pigeontoken="social-links"}
 				  			</div>
+				  			<!-- web links -->
+				  			<div class="cell web-links">
+				  				{pigeontoken="web-links"}
+				  			</div>
+				  			<!-- copyright -->
 				  			<div class="cell copy">
-				  				copyright © 2022
+				  				{pigeontoken="copyright"}
 				  			</div>
 						</div>
                     </td>
