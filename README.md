@@ -49,7 +49,7 @@ FOR 	PIGEONPOSSE.COM
 [![License](https://img.shields.io/github/license/PigeonPosse/mautic-theme-tokens?color=blue&label=License&style=flat-square)](https://packagist.org/packages/pigeonposse/mautic-theme-tokens)
 [![Version](https://img.shields.io/packagist/v/pigeonposse/mautic-theme-tokens?color=a1b858&label&style=flat-square)](https://packagist.org/packages/pigeonposse/mautic-theme-tokens)
 [![Web](https://img.shields.io/badge/Web-grey?style=flat-square)](https://pigeonposse.com/) 
-[![About us](https://img.shields.io/badge/About--us-grey?style=flat-square)](https://pigeonposse.com/?popup=about) 
+[![About us](https://img.shields.io/badge/About-us-grey?style=flat-square)](https://pigeonposse.com/?popup=about) 
 [![Donate](https://img.shields.io/badge/Donate-pink?style=flat-square)](https://pigeonposse.com/?popup=donate) 
 
 ## 🗒 Description

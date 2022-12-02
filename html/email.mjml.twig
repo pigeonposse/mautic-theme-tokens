@@ -165,7 +165,7 @@
 	<!-- content -->
 	<mj-wrapper border-radius="10px" background-color="white" padding="0" css-class="pigeon-content">
 	  <!-- content header -->
-	  <mj-section background-url="{{getAssetUrl('themes/'~template~'/assets/mail-header.png')}}" background-size="cover" background-position="center" background-color="#351f53" border-radius="10px 10px 0 0" padding="60px 5px 60px 5px">
+	  <mj-section background-url="{{ getAssetUrl('themes/'~template~'/assets/mail-header.png', null, null, true) }}" background-size="cover" background-position="center" background-color="#351f53" border-radius="10px 10px 0 0" padding="60px 5px 60px 5px">
 		<mj-column>
 		  <mj-text font-family="Helvetica" font-size="16px" align="center" color="white" css-class="content-header-title">
 			<h1 style="line-height: 0;">{subject}

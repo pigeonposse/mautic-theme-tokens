@@ -28,7 +28,7 @@ The example would show an image as a link, usually the image will be the logo an
 		<tr>
 			<td style="width:320px;">
 				<a href="{url}" target="_blank">
-					<img height="auto" src="{img-url}" style="border: 0px; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px; float: left;" width="320" /> 
+					<img height="auto" src="{img-url}" style="border: 0px; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px; float: left;" width="320" alt="Logo" title="Logo"/> 
 				</a>
 			</td>
 		</tr>
@@ -87,7 +87,7 @@ This token is designed to display social media links.
 			<!-- Social icon cell example -->
 			<td style="align-content: center;">
 				<a href="{social-url}" target="_blank">
-					<img height="auto" src="{social-image-url}" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width: 20px;font-size:13px;margin: auto;" width="20px" /> 
+					<img height="auto" src="{social-image-url}" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width: 20px;font-size:13px;margin: auto;" width="20px" alt="Social Network" title="Social Network" /> 
 				</a>
 			</td>
 			<!-- Last cell -->
