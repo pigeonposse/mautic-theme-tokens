@@ -1,6 +1,6 @@
 {
 	"name": "pigeonposse/mautic-theme-tokens",
-	"description" : "A pigeonPosse theme for Mautic with tokens",
+	"description" : "A PigeonPosse Theme for Mautic & with tokens",
 	"type": "mautic-theme",
 	"keywords": [
 		"mautic",
@@ -12,12 +12,10 @@
 	"extra": {
 		"install-directory-name": "pigeonposse-tokens"
 	},
-    "repositories": [
-        {
-            "type": "mautic-theme",
-            "url": "https://github.com/PigeonPosse/mautic-theme-tokens"
-        }
-    ],
+	"require": {
+		"php": ">=7.4.0",
+		"mautic/core-lib": "^4.0"
+	},
 	"authors": [
 		{
             "name": "PigeonPosse Team",
