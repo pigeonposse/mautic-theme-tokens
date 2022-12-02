@@ -14,7 +14,7 @@
 	},
     "repositories": [
         {
-            "type": "vcs",
+            "type": "mautic-theme",
             "url": "https://github.com/PigeonPosse/mautic-theme-tokens"
         }
     ],
