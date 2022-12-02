@@ -12,7 +12,12 @@
 	"extra": {
 		"install-directory-name": "pigeonposse-tokens"
 	},
-	"version" : "1.0.1",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/PigeonPosse/mautic-theme-tokens"
+        }
+    ],
 	"authors": [
 		{
             "name": "PigeonPosse Team",
