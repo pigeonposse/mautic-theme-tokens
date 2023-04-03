@@ -1,0 +1,16 @@
+###############################################################################
+# FOR PIGEONPOSSE USAGE
+###############################################################################
+
+web:
+  
+  - id: "{{composer.name}}"
+    name: Mautic theme with tokens
+    type: theme
+    subtype: mautic
+    version: "{{composer.version}}"
+    description: "✨📬 Mautic Theme (with custom tokens) by PIGEONPOSSE"
+    homepage: "https://packagist.org/packages/{{composer.name}}"
+    repo: "https://github.com/{{composer.name}}"
+
+###############################################################################
