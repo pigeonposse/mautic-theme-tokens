@@ -8,7 +8,7 @@ web:
     name: Mautic theme with tokens
     type: theme
     subtype: mautic
-    version: "{{composer.version}}"
+    version: "1.0.0"
     description: "✨📬 Mautic Theme (with custom tokens) by PIGEONPOSSE"
     homepage: "https://packagist.org/packages/{{composer.name}}"
     logo: "https://raw.githubusercontent.com/pigeonposse/mautic-plugin-extra-tools/main/Assets/img/logo.png"
